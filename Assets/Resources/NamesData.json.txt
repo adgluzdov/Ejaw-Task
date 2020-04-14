@@ -1,0 +1,1 @@
+{"names":[{"ObjectType":"Cube", "Name":"Cube Igor"}, {"ObjectType":"Sphere", "Name":"Sphere Dasha"}, {"ObjectType":"Capsule", "Name":"Capsule Anna"}]}
