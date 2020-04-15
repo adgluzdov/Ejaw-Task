@@ -479,7 +479,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objectsData:
-    AssetBundlePath: http://192.168.1.61:8000/AssetBundles/Prefabs
+    AssetBundlePath: http://193.238.44.58:13666/AssetBundles/Prefabs
     objects:
     - ObjectType: Cube
       AssetName: Cube
